@@ -9,6 +9,7 @@ But, if pressed, how would you prove it?
 
 # Part I - WeatherPy
 In this exercise, I created a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator utilizing a simple Python library and the OpenWeatherMap API to create a representative model of weather across world cities.
+Note: My google API key was hidden.  Others would have to alter the code to include theirs when running this.
 
 First, I created a series of scatter plots to showcase the following relationships:
 
