@@ -16,7 +16,7 @@ First, I created a series of scatter plots to showcase the following relationshi
 * Humidity (%) vs. Latitude
 * Cloudiness (%) vs. Latitude
 * Wind Speed (mph) vs. Latitude
-[Image 1](https://github.com/Auburn9698/python-api-challenge/blob/main/Images/Lat_Temp.png)
+![Image 1](https://github.com/Auburn9698/python-api-challenge/blob/main/Images/Lat_Temp.png)
 
 
 Secondly, linear regression was run on each relationship, separating them into Northern and Southern Hemispheres.
