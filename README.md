@@ -55,7 +55,7 @@ The cities were narrowed down to those with ideal conditions.
 
 ![Ideal Cities Image](https://github.com/Auburn9698/python-api-challenge/blob/main/Images/Ideal_cities.png)
 
-Using Google Places API , I found the first hotel for each city located within 5000 meters of your coordinates.
+Using Google Places API , I found the nearest hotel for each city located within 5000 meters of its coordinates.
 
 
 ![image3](https://github.com/Auburn9698/python-api-challenge/blob/main/Images/Hotels_map.png)
